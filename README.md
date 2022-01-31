@@ -1,4 +1,4 @@
-# Company Outlook Signature HTML Template
+# Company Outlook Signature HTML Template in Outlook Exchange
 
 Outlook Signature Template with html and in-line styling
 
